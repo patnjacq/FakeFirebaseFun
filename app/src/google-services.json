@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037707486073",
+    "firebase_url": "https://fakefirebasefun-default-rtdb.firebaseio.com",
+    "project_id": "fakefirebasefun",
+    "storage_bucket": "fakefirebasefun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037707486073:android:4344940c498ed9bac985a8",
+        "android_client_info": {
+          "package_name": "com.example.fakefirebasefun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037707486073-5mg5tbt6ehcku693llpqn4cbqmtvi7eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHf0Dgt2O9wkGSNbh_0bhjShBXD_NtLB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037707486073-5mg5tbt6ehcku693llpqn4cbqmtvi7eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
